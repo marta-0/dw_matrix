@@ -9,4 +9,4 @@ First part of the project lasts 5 days:
 * day 2 - colaboration between Google Colab and Github setup
 * [day 3](day3.ipynb) - initial data set analysis (men's shoe prices)
 * [day 4](day4.ipynb) - simple model build
-* day 5 - advanced model build
+* [day 5](day5.ipynb) - advanced model build
